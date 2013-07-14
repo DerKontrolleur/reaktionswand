@@ -1,0 +1,12 @@
+<VisualMicro>
+  <Program Name="VisualStudioTest" Ext=".ino" Location="C:\Users\Matthias\Documents\Programmieren\Git\reaktionswand\VisualStudioTest">
+    <Compile IsCompiled="0" ConfigurationName="Debug" StopOnError="False" OptimiseLibs="True" OptimiseCore="True" BuildPath="C:\Users\Matthias\AppData\Local\VMicro\Arduino\Builds\VisualStudioTest\mega2560" IncludeDebug="0" IncludesDebug="0" SketchName="VisualStudioTest" CompilerErrors="1" />
+    <Debug />
+    <Platform Name="Arduino">
+      <Board Name="mega2560" Description="Arduino Mega 2560 or Mega ADK" CoreFolder="D:\Arduino\hardware\arduino\cores\arduino" VariantFullPath="D:\Arduino\hardware\arduino\variants\mega" McuIdePath="D:\Arduino" name="Arduino Mega 2560 or Mega ADK" upload.protocol="wiring" upload.maximum_size="258048" upload.speed="115200" bootloader.low_fuses="0xFF" bootloader.high_fuses="0xD8" bootloader.extended_fuses="0xFD" bootloader.path="stk500v2" bootloader.file="stk500boot_v2_mega2560.hex" bootloader.unlock_bits="0x3F" bootloader.lock_bits="0x0F" build.mcu="atmega2560" build.f_cpu="16000000L" build.core="arduino" build.variant="mega" runtime.ide.path="D:\Arduino" build.system.path="D:\Arduino\hardware\arduino\system" software="ARDUINO" runtime.ide.version="105" build.core.vmresolved="D:\Arduino\hardware\arduino\cores\arduino" build.core.parentfolder.vmresolved="D:\Arduino\hardware\arduino\cores" build.core.coresparentfolder.vmresolved="D:\Arduino\hardware\arduino" vm.core.include="arduino.h" vm.boardsource.path="D:\Arduino\hardware\arduino" vm.boardsource.name="boards.txt" vm.platformname.name="" build.variant.vmresolved="D:\Arduino\hardware\arduino\variants\mega" compiler.path="D:\Arduino\hardware\tools\avr\bin\" includes=" -I&quot;D:\Arduino\hardware\arduino\cores\arduino&quot;  -I&quot;D:\Arduino\hardware\arduino\variants\mega&quot; " build.path="C:\Users\Matthias\AppData\Local\VMicro\Arduino\Builds\VisualStudioTest\mega2560" build.project_name="VisualStudioTest" build.variant.path="D:\Arduino\hardware\arduino\variants\mega" archive_file="core.a" object_file="&quot;C:\Users\Matthias\AppData\Local\VMicro\Arduino\Builds\VisualStudioTest\mega2560\ReactionFields.cpp.o&quot;" source_file="&quot;C:\Users\Matthias\AppData\Local\VMicro\Arduino\Builds\VisualStudioTest\mega2560\ReactionFields.cpp&quot;" />
+    </Platform>
+    <VCCodeModel>
+      <VCCodeMacros />
+    </VCCodeModel>
+  </Program>
+</VisualMicro>

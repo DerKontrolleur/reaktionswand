@@ -9,8 +9,10 @@ public class MainActivity extends PApplet {
 	
 	private static final String START = "start\n";
 	
+	private long time = 0;
+	
 	public void setup() {
-		background(0);
+		background(199,178,153);
 		
 		if(bluetooth.check()) {
 			bluetooth.write(START);
@@ -18,6 +20,8 @@ public class MainActivity extends PApplet {
     }
  
     public void draw() {
+    	time = millis();
+    	
     	message = bluetooth.read();
     	
     	if(message.equals(START)) {

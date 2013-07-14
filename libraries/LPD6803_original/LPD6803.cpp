@@ -17,7 +17,6 @@
  * along with PixelController.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include <TimerOne.h>
 #include "LPD6803.h"
 
 /*****************************************************************************
